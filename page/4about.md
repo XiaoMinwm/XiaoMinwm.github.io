@@ -13,6 +13,10 @@ type: page
 
 <iframe src="http://wx1.sinaimg.cn/mw1024/8b5d63f9ly1ffgiuxy7xyj20ci0m8gmz.jpg" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
+![权限](http://wx1.sinaimg.cn/mw1024/8b5d63f9ly1ffgiuxy7xyj20ci0m8gmz.jpg)
+
+ <img src="http://wx1.sinaimg.cn/mw1024/8b5d63f9ly1ffgiuxy7xyj20ci0m8gmz.jpg" width = "225" height = "400" alt="图片名称" align=center />
+
 就职于斐讯家庭网络产品中心部，安卓开发工程师。
 
 主要兴趣集中在安卓开发，移动前端的概念深入我心。将更多的业务逻辑放在前端中，这很有趣。同时，将自己构想的内容实现出来，这种感觉很愉快。
