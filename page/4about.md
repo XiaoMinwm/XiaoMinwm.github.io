@@ -29,7 +29,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/XiaoMinwm)
+* GitHub：[XiaoMinwm](https://github.com/XiaoMinwm)
 * email：xiaomin7214@163.com
 * [Weibo](http://weibo.com/u/2338153465)
 * [知乎](https://www.zhihu.com/people/min-xiao-31)

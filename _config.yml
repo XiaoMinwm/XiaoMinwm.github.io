@@ -7,16 +7,16 @@
 
 # Site settings
 title: Simon
-brief-intro: Front-end Dev Engineer
+brief-intro: Android Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xiaominwm.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-username: Simon's blog
+username: XiaoMin's blog
 github_username:  XiaoMinwm
-user_title: Simon's blog - FrontEnd
+user_title: Simon's blog - Android
 email: xiaominwanlucky@gmail.com
 weibo_username: wanlucky_
 zhihu_username: aump
